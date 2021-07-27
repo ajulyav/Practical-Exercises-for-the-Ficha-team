@@ -13,7 +13,7 @@ a sub-folder called RgbOut (the folder is created automatically
 if the user has not created it).
 
 The python script runs as standard. In the console, go to the
-required folder and run the line: * *python image_parser.py* *
+required folder and run the line: *python image_parser.py*
 
 
 
@@ -25,4 +25,4 @@ be written to a sub-folder called GeneratedData (the folder is
 created automatically if the user has not created it).
 
 The python script runs as standard. In the console, go to the
-required folder and run the line: * *python coco_generator.py* *
+required folder and run the line: *python coco_generator.py*
